@@ -72,7 +72,7 @@ dan ordered list menggunakan <ol>.
 ## 8. Menambahkan Komentar
 
 Pada tahap ini saya menambahkan komentar HTML menggunakan format
-<!-- komentar -->.
+(<!-- komentar -->.)
 
 Komentar digunakan sebagai penanda pada bagian kode
 dan tidak ditampilkan pada browser.
