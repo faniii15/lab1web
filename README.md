@@ -22,7 +22,7 @@ Saya membuat struktur dasar HTML yang terdiri dari html, head, title, dan body.
 
 ### Screenshot
 
-![Struktur Dasar HTML](images/struktur.png)
+![Struktur Dasar HTML](images/struktur.png.png)
 
 ## 2. Membuat Paragraf
 
@@ -30,7 +30,7 @@ Pada tahap ini saya menambahkan paragraf menggunakan tag <p>.
 
 ### Screenshot
 
-![Paragraf](images/paragraf.png)
+![Paragraf](images/paragraf.png.png)
 
 ## 3. Menambahkan Heading
 
@@ -39,7 +39,7 @@ menggunakan tag <h1> dan <h2>.
 
 ### Screenshot
 
-![Heading](images/heading.png)
+![Heading](images/heading.png.png)
 
 ## 4. Memformat Teks
 
@@ -48,7 +48,7 @@ seperti <b>, <i>, <strong>, <mark>, <sub>, dan <sup>.
 
 ### Screenshot
 
-![Format Teks](images/format.png)
+![Format Teks](images/format.png.png)
 
 ## 5. Menyisipkan Gambar
 
@@ -57,7 +57,7 @@ dan menyimpan gambar di dalam folder images.
 
 ### Screenshot
 
-![Gambar](images/gambar.png)
+![Gambar](images/gambar.png.png)
 
 ## 6. Menambahkan Hyperlink
 
@@ -66,7 +66,7 @@ untuk berpindah ke halaman lain dan website eksternal.
 
 ### Screenshot
 
-![Hyperlink](images/hyperlink.png)
+![Hyperlink](images/hyperlink.png.png)
 
 ## 7. Menambahkan List
 
@@ -75,7 +75,7 @@ dan ordered list menggunakan <ol>.
 
 ### Screenshot
 
-![List](images/list.png)
+![List](images/list.png.png)
 
 ## 8. Menambahkan Komentar
 
@@ -87,7 +87,7 @@ dan tidak ditampilkan pada browser.
 
 ### Screenshot
 
-![Komentar](images/komentar.png)
+![Komentar](images/komentar.png.png)
 
 ## 9. Membuat Halaman Kedua
 
@@ -96,7 +96,7 @@ menghubungkannya dengan Index.html menggunakan hyperlink.
 
 ### Screenshot
 
-![Halaman Kedua](images/halaman2.png)
+![Halaman Kedua](images/halaman2.png.png)
 
 ## Kesimpulan
 
