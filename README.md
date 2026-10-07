@@ -22,7 +22,7 @@ Saya membuat struktur dasar HTML yang terdiri dari html, head, title, dan body.
 
 ### Screenshot
 
-![Struktur Dasar HTML]()
+![Struktur Dasar HTML](images/struktur.png)
 
 ## 2. Membuat Paragraf
 
