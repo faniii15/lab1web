@@ -67,7 +67,8 @@ Pada tahap ini saya membuat unordered list menggunakan <ul>
 dan ordered list menggunakan <ol>.
 
 
-![List](images/list.png.png)
+[List](images/list.png.png)
+
 
 ## 8. Menambahkan Komentar
 
