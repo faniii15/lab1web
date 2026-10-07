@@ -27,23 +27,21 @@ Saya membuat struktur dasar HTML yang terdiri dari html, head, title, dan body.
 
 Pada tahap ini saya menambahkan paragraf menggunakan tag <p>.
 
-### Screenshot
 
 ![Paragraf](images/paragraf.png.png)
 
 ## 3. Menambahkan Heading
 
 Pada tahap ini saya menambahkan judul dan subjudul
-menggunakan tag <h1> dan <h2>.
+menggunakan tag (<h1> dan <h2>.)
 
-### Screenshot
 
 ![Heading](images/heading.png.png)
 
 ## 4. Memformat Teks
 
 Pada tahap ini saya mencoba beberapa tag untuk memformat teks
-seperti <b>, <i>, <strong>, <mark>, <sub>, dan <sup>.
+seperti (<b>, <i>, <strong>, <mark>, <sub>, dan <sup>).
 
 ![Format Teks](images/format.png.png)
 
@@ -87,7 +85,6 @@ dan tidak ditampilkan pada browser.
 Pada tahap ini saya membuat file Halaman2.html dan
 menghubungkannya dengan Index.html menggunakan hyperlink.
 
-### Screenshot
 
 ![Halaman Kedua](images/hal2.png.png)
 
