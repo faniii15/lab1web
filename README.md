@@ -20,7 +20,6 @@ Praktikum ini bertujuan untuk:
 Pada tahap pertama saya membuat file Index.html menggunakan Visual Studio Code.
 Saya membuat struktur dasar HTML yang terdiri dari html, head, title, dan body.
 
-### Screenshot
 
 ![Struktur Dasar HTML](images/struktrur.png.png)
 
@@ -46,8 +45,6 @@ menggunakan tag <h1> dan <h2>.
 Pada tahap ini saya mencoba beberapa tag untuk memformat teks
 seperti <b>, <i>, <strong>, <mark>, <sub>, dan <sup>.
 
-### Screenshot
-
 ![Format Teks](images/format.png.png)
 
 ## 5. Menyisipkan Gambar
@@ -55,7 +52,6 @@ seperti <b>, <i>, <strong>, <mark>, <sub>, dan <sup>.
 Pada tahap ini tambahkan gambar menggunakan tag <img>
 dan menyimpan gambar di dalam folder images.
 
-### Screenshot
 
 ![Gambar](images/gambar.png.png)
 
@@ -64,7 +60,6 @@ dan menyimpan gambar di dalam folder images.
 Pada tahap ini saya membuat hyperlink menggunakan tag <a>
 untuk berpindah ke halaman lain dan website eksternal.
 
-### Screenshot
 
 ![Hyperlink](images/hyperlink.png.png)
 
@@ -73,7 +68,6 @@ untuk berpindah ke halaman lain dan website eksternal.
 Pada tahap ini saya membuat unordered list menggunakan <ul>
 dan ordered list menggunakan <ol>.
 
-### Screenshot
 
 ![List](images/list.png.png)
 
@@ -85,7 +79,6 @@ Pada tahap ini saya menambahkan komentar HTML menggunakan format
 Komentar digunakan sebagai penanda pada bagian kode
 dan tidak ditampilkan pada browser.
 
-### Screenshot
 
 ![Komentar](images/komentar.png.png)
 
@@ -98,9 +91,16 @@ menghubungkannya dengan Index.html menggunakan hyperlink.
 
 ![Halaman Kedua](images/hal2.png.png)
 
+## Index 1 Web sesudah jadi
+![INDEX1](images/index1.png)
+
+## Halaman 2 
+![INDEX2](images/index2.png)
+
 ## Kesimpulan
 
 Dari praktikum ini saya mempelajari dasar-dasar HTML,
 mulai dari struktur dokumen HTML, heading, paragraf,
 format teks, gambar, hyperlink, list, komentar,
 dan pembuatan halaman HTML kedua.
+
