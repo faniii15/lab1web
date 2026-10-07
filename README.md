@@ -22,7 +22,7 @@ Saya membuat struktur dasar HTML yang terdiri dari html, head, title, dan body.
 
 ### Screenshot
 
-![Struktur Dasar HTML](images/struktur.png.png)
+![Struktur Dasar HTML](images/struktrur.png.png)
 
 ## 2. Membuat Paragraf
 
@@ -96,7 +96,7 @@ menghubungkannya dengan Index.html menggunakan hyperlink.
 
 ### Screenshot
 
-![Halaman Kedua](images/halaman2.png.png)
+![Halaman Kedua](images/hal2.png.png)
 
 ## Kesimpulan
 
