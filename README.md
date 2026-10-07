@@ -52,7 +52,7 @@ seperti <b>, <i>, <strong>, <mark>, <sub>, dan <sup>.
 
 ## 5. Menyisipkan Gambar
 
-Pada tahap ini saya menambahkan gambar menggunakan tag <img>
+Pada tahap ini tambahkan gambar menggunakan tag <img>
 dan menyimpan gambar di dalam folder images.
 
 ### Screenshot
